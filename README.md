@@ -1,4 +1,4 @@
 vbmike.github.io
 ================
 
-My gihub sample webpages repository
+My github sample webpages repository
